@@ -1,0 +1,5 @@
+/target
+.sqlx/
+build/
+.env
+*:Zone.Identifier
