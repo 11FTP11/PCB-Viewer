@@ -4,6 +4,8 @@
 # PCB Viewer
 Система конвертирует файлы описания печатных плат из формата ACCEL_ASCII (P-CAD) в JSON с последующим сохранением в базе данных и предоставляет возможность интерактивной визуализации платы в браузере.
 
+Часть логики визуализации платы была реализована на основе проекта [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
+
 # DEMO
 
 <img width="1446" height="795" alt="изображение" src="https://github.com/user-attachments/assets/f7ecc7d5-03a9-4b90-8d62-0202b0190b41" />
